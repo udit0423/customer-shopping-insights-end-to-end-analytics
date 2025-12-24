@@ -23,8 +23,8 @@ This repository builds a complete analytics pipeline to solve these questions.
 ---
 
 ## 📌 Project Architecture
-![Project Flow](/customer-trends-data-analysis-SQL-Python-PowerBI-main\project_flow.png)
-https://github.com/udit0423/customer-shopping-insights-end-to-end-analytics/blob/main/project_flow.png
+![Project Flow](https://raw.githubusercontent.com/udit0423/customer-shopping-insights-end-to-end-analytics/main/project_flow.png)
+
 
 
 
