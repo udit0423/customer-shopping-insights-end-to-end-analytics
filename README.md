@@ -63,7 +63,7 @@ An interactive dashboard visualizing:
 
 ---
 
-![Customer Behavior Dashboard](/customer-trends-data-analysis-SQL-Python-PowerBI-main/customer_behavior_dashboard.jpg)
+![Customer Behavior Dashboard](https://raw.githubusercontent.com/udit0423/customer-shopping-insights-end-to-end-analytics/main/customer_behavior_dashboard.jpg)
 
 
 ### 4️⃣ Insights & Business Recommendations
